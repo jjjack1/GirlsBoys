@@ -1,0 +1,11 @@
+{
+    "name": "GirlsBoys",
+    "type": "BEP20",
+    "symbol": "GirlsBoys",
+    "decimals": 18,
+    "website": "https://x.com",
+    "description": "GirlsBoys is more than just a token – it’s a playful digital brand that bridges entertainment, culture, and blockchain. It’s designed for people who value fun, diversity, and the power of coming together.",
+    "explorer": "https://bscscan.com/token/0x0eC29Cf2CEDb944AeE99F23dF558136F423992e2",
+    "status": "active",
+    "id": "0x0eC29Cf2CEDb944AeE99F23dF558136F423992e2",
+}
